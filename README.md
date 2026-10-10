@@ -25,13 +25,13 @@
 
 ## 下载与开始
 
-**当前发布：WN3 固件 · Android 0.62.0 · macOS 0.62.1**
+**当前发布：WN3 固件 · Android 0.65.2 · macOS 0.65.2**
 
 | 下载 | 适用对象 | 内容 |
 | :-- | :-- | :-- |
 | **[WN3 相机固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-WN3-Firmware.zip)** | RICOH GR II | 固件、中文更新说明、校验值 |
-| **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Android-0.62.0.apk)** | Android 8.0 及以上 | APK 安装包 |
-| **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-macOS-0.62.1-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | DMG 安装包，运行时已内置 |
+| **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Android-0.65.2.apk)** | Android 8.0 及以上 | APK 安装包 |
+| **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-macOS-0.65.2-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | DMG 安装包，运行时已内置 |
 
 [所有发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v0.62.1-wn3) · [SHA256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/SHA256SUMS.txt)
 
@@ -146,7 +146,7 @@
 
 - **全屏关机图片**：640×480；在 App 中缩放、旋转、调整构图。
 - **GIF 与视频片段**：先预览，再上传；固定档位让选择更直接。
-- **独立关机音效**：内置音效可试听，也可导入最长 3 秒的 16 位 PCM WAV。
+- **独立关机音效**：内置音效可试听，也可导入 WAV／MP3／M4A 等音频；在波形中裁取最多 3 秒，精细调整后上传。
 - **画面与声音各自保存**：可单独恢复默认画面、单独关闭音效。
 - **完整道别**：等待动画与音频播放结束，再关闭显示。
 
@@ -167,6 +167,12 @@ FRAME 现在同时提供 **Android 与 macOS** 版本。手机上随手管理，
 ### 每个滤镜，都有自己的名字与图标
 
 胶片图标、配色、Emoji 和样片，把一串滤镜名称变成一眼就能认出的色彩收藏。可以编辑、导出，再导入相机。
+
+### 相机里的原图，随手带走
+
+按日期浏览照片，筛选 JPEG／RAW，单张、整组或全部导出。**保留 JPEG 与 DNG 原始画质**，不缩小、不重新压缩。
+
+Android 点击“导出原图”即可开始，自动保存到 `Pictures/FRAME/日期时间-批次编号`；Mac 可选择保存文件夹。传输时优先处理原图，进度、速度与完成数量清楚可见。
 
 ### 无线传输，清楚看到每一步
 
@@ -194,9 +200,19 @@ Mac 版提供自适应桌面布局、侧边导航与分栏预览，运行时随�
 
 ## 详细公告与更新记录
 
+### 2026 年 10 月 10 日 · Android 与 macOS 0.65.2
+
+- 新增相机照片浏览与原图导出：日期分组、JPEG／RAW 筛选、批量选择、取消与重试。
+- Android 自动按批次保存到 Pictures/FRAME，无需选择目录；Mac 保留目标文件夹选择。
+- 原图传输优先，暂缓缩略图请求，优化连接复用与接收流程，减少保存时的重复复制。
+- 相机总览提供“导出照片”和“相机设置”，连接后由你选择下一步。
+- 音效支持完整波形、选段裁剪、0.01 秒微调、试听与重新编辑。
+- 改善 Mac 图标编辑、预览滚动稳定性与 Android 返回操作。
+- 沿用原应用标识与数据目录，可覆盖安装；本次配套固件仍为 WN3。
+
 ### 2026 年 10 月 10 日 · 首个公开发布
 
-本仓库集中发布 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
+首次发布为 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**；当前下载已更新为两端 **0.65.2**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
 
 安装说明保留在本 README：**先更新官方 3.00，再更新 FRAME 固件**。
 
