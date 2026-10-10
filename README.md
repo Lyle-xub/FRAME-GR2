@@ -11,6 +11,7 @@
   <a href="#02-让光影多一点触感">质感</a> ·
   <a href="#03-拍下就已是喜欢的呈现">照片装饰</a> ·
   <a href="#正常更新教程">更新教程</a> ·
+  <a href="#支持开发">支持开发</a> ·
   <a href="#详细公告与更新记录">更新公告</a>
 </p>
 
@@ -174,6 +175,22 @@ FRAME 现在同时提供 **Android 与 macOS** 版本。手机上随手管理，
 Mac 版提供自适应桌面布局、侧边导航与分栏预览，运行时随安装包提供，无需另外安装 Java。
 
 ---
+
+## 支持开发
+
+如果 FRAME 让你的 GR II 多了一点想拍的理由，欢迎请我喝杯咖啡，支持后续开发与维护。
+
+赞赏完全自愿。点一个 Star、分享你的作品或反馈使用体验，也同样是很好的支持。
+
+<p align="center">
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/support-wechat.png">
+    <img src="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/support-wechat.png" alt="通过微信支付支持 FRAME 开发" width="300">
+  </a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/support-alipay.png">
+    <img src="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/support-alipay.png" alt="通过支付宝支持 FRAME 开发" width="300">
+  </a>
+</p>
+<p align="center"><sub>使用对应 App 扫码；也可点击图片保存后识别。感谢每一份支持。</sub></p>
 
 ## 详细公告与更新记录
 
