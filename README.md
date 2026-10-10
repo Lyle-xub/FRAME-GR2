@@ -10,7 +10,7 @@
   <a href="#01-喜欢的色彩随身带着">色彩</a> ·
   <a href="#02-让光影多一点触感">质感</a> ·
   <a href="#03-拍下就已是喜欢的呈现">照片装饰</a> ·
-  <a href="#恢复与救砖">恢复与救砖</a> ·
+  <a href="#正常更新教程">更新教程</a> ·
   <a href="#详细公告与更新记录">更新公告</a>
 </p>
 
@@ -31,18 +31,32 @@
 | **[WN3 相机固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-WN3-Firmware.zip)** | RICOH GR II | 固件、中文更新说明、校验值 |
 | **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Android-0.62.0.apk)** | Android 8.0 及以上 | APK 安装包 |
 | **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-macOS-0.62.1-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | DMG 安装包，运行时已内置 |
-| **[安装与使用图文教程](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-Guide.zip)** | 第一次使用，或需要完整说明 | 离线 HTML 手册，内嵌实图与 SVG 流程图 |
-| **[官方 3.00 恢复包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-Official-Recovery.zip)** | 按恢复流程返回官方系统 | 官方固件、`backup.ttl`、恢复说明、校验值 |
 
 [所有发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v0.62.1-wn3) · [SHA256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/SHA256SUMS.txt)
 
-> **开始前**：这份相机固件仅适用于 **RICOH GR II**。正常更新使用 WN3 固件包；恢复包单独使用，不要把 `backup.ttl` 混进普通更新卡。Mac 版采用本地签名，首次打开方式见图文教程。
+> **适用机型：RICOH GR II。更新顺序：先更新到官方 3.00，再更新 FRAME 固件。**
 
-### 三步，把喜欢的风格带进相机
+### 正常更新教程
 
-1. **更新相机与安装 App。** 按图文教程准备 SD 卡，使用正常版本确认流程更新 WN3；安装 Android 或 Mac 版 FRAME。
-2. **连接相机 Wi-Fi。** 打开 FRAME，进入相机页面，读取机内滤镜与素材状态。
-3. **选好，导入，然后继续拍。** 在 App 里挑选滤镜、比较预览、编辑图标并上传；保存完成后，从相机的“自定”列表选择使用。
+#### 第一步 先更新到官方 3.00
+
+1. 从[理光官方 GR II 固件页面](https://www.ricoh-imaging.co.jp/english/support/digital/gr2_s.html)下载 3.00 版本，并解压出 `rg2_v003.frm`。
+2. 备份 SD 卡照片，使用充满的电池，将官方固件文件复制到 SD 卡根目录。
+3. 按官方说明，在相机设置菜单中进入“确认固件版本”，确认更新，等待屏幕明确显示完成。
+4. 重新开机，确认已更新为**官方 3.00**，再进行下一步。已是官方 3.00 的相机可直接进行第二步。
+
+#### 第二步 再更新 FRAME 固件
+
+1. 下载上方 **WN3 相机固件**，解压出本固件的 `rg2_v003.frm`。
+2. 相机正常关机，用本固件文件替换 SD 卡根目录中上一步的官方固件文件。每次只放当前步骤的那一份固件。
+3. 装回 SD 卡，关机状态下**按住上方向／微距键，再长按回放键**，进入版本确认页后按提示更新。
+4. 等待明确完成，按屏幕提示结束。正常启动后，移除卡根目录中的更新文件。
+
+**两次更新均保持电量充足；写入期间不要断电或拔卡。**
+
+#### 安装 App 开始使用
+
+按平台安装 Android APK 或 Mac DMG，连接相机 Wi-Fi 后打开 FRAME，即可导入滤镜与关机素材。Mac 版采用本地签名，首次打开如遇系统拦截，可在系统“隐私与安全性”中按提示允许该应用。
 
 ---
 
@@ -161,56 +175,18 @@ Mac 版提供自适应桌面布局、侧边导航与分栏预览，运行时随�
 
 ---
 
-## 恢复与救砖
-
-**我们认真对待每一次更新，也认真准备出问题时的退路。**
-
-从取景、对焦到保存、关机，开发过程中反复进行机身实测；同时保留校验、恢复文件和分级处理路径。官方 3.00 独立恢复已在项目测试机上成功使用。
-
-![GR II 两级恢复入口示意](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/recovery-path.png)
-
-### 更新入口仍可用
-
-关机状态下，**按住上方向／微距键，再长按回放键**。若能进入版本确认页，可使用对应的已核验固件，按提示完成恢复。
-
-### 无法正常进入主系统
-
-[官方恢复包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-Official-Recovery.zip)提供两份配套文件：
-
-| 文件 | 功能 |
-| :-- | :-- |
-| `rg2_v003.frm` | GR II 官方 3.00 更新固件 |
-| `backup.ttl` | 通过独立入口触发原生更新线程 |
-
-恢复脚本的核心是 `sendln 'thread +p231 up'`，用于启动原生更新流程。按完整教程准备好文件后，通过 **录像档 → 快门完全按下并保持 → 短按电源** 进入独立恢复。
-
-**这个入口直接执行更新，不再弹出普通确认页。** 先备份卡上文件、核对恢复包、使用充满的电池；写入期间保持供电。恢复正常后移除卡根目录的 `backup.ttl` 与 `rg2_v003.frm`，避免再次触发。
-
-[下载完整图文恢复步骤](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-Guide.zip)
-
-<details>
-<summary>恢复包使用要点</summary>
-
-- 普通更新与独立恢复是两条不同流程，不能混放触发脚本。
-- `backup.ttl` 是启动恢复线程的脚本，不是照片备份或整机 NAND 备份工具。
-- 返回官方系统会退出自定义固件功能，并可能重置设置。
-- 独立入口也无法进入时，请交由专业维修处理；更新容器不能当作裸 NAND 镜像写入。
-- 恢复准备能提供明确退路，但不能覆盖断电、硬件故障等所有情况。
-
-</details>
-
 ## 详细公告与更新记录
 
 ### 2026 年 10 月 10 日 · 首个公开发布
 
-本仓库集中发布 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**。根目录仅保留本 README；安装包、实拍展示、图文手册与恢复文件统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
+本仓库集中发布 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
+
+安装说明保留在本 README：**先更新官方 3.00，再更新 FRAME 固件**。
 
 **本次附件**
 
-- WN3 普通固件包：与官方恢复包分开下载。
+- WN3 固件包：包含固件、正常更新说明与校验值。
 - Android APK、Apple Silicon Mac DMG：按平台选择。
-- 自包含 HTML 图文手册：解压后可离线阅读，内嵌实拍与 SVG 流程图。
-- 官方 3.00＋独立恢复脚本包：包含使用说明和校验值。
 - 本页的实拍对照图、实机演示视频与展示图片。
 - SHA256 文件校验清单。
 
