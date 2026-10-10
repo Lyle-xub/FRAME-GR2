@@ -25,13 +25,13 @@
 
 ## 下载与开始
 
-**当前发布：WN3 固件 · Android 0.65.2 · macOS 0.65.2**
+**当前发布：WN3 固件 · Android 0.65.3 · macOS 0.65.3**
 
 | 下载 | 适用对象 | 内容 |
 | :-- | :-- | :-- |
 | **[WN3 相机固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-WN3-Firmware.zip)** | RICOH GR II | 固件、中文更新说明、校验值 |
-| **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Android-0.65.2.apk)** | Android 8.0 及以上 | APK 安装包 |
-| **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-macOS-0.65.2-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | DMG 安装包，运行时已内置 |
+| **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Android-0.65.3.apk)** | Android 8.0 及以上 | APK 安装包 |
+| **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-macOS-0.65.3-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | DMG 安装包，运行时已内置 |
 
 [所有发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v0.62.1-wn3) · [SHA256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/SHA256SUMS.txt)
 
@@ -200,6 +200,14 @@ Mac 版提供自适应桌面布局、侧边导航与分栏预览，运行时随�
 
 ## 详细公告与更新记录
 
+### 2026 年 10 月 10 日 · Android 与 macOS 0.65.3
+
+- 修复部分新导入滤镜在详情页点击“导入到相机”后没有反应的问题。需要近似转换的滤镜现在会正常显示确认窗口，确认后继续导入，取消则停止。
+- 调整详情页与相机页的切换顺序，避免页面关闭时误关确认窗口；连续点击只发起一次导入。
+- 将导入进度与结果提示移至滤镜位置列表上方，便于查看。
+- Android 与 macOS 同步修复，保留此前的照片导出、音效裁剪及界面优化。
+- 已完成离线回归测试：Android 39 项、macOS 46 项通过，静态检查通过；本次未连接实体相机验证写入。WN3 固件未变更。
+
 ### 2026 年 10 月 10 日 · Android 与 macOS 0.65.2
 
 - 新增相机照片浏览与原图导出：日期分组、JPEG／RAW 筛选、批量选择、取消与重试。
@@ -212,7 +220,7 @@ Mac 版提供自适应桌面布局、侧边导航与分栏预览，运行时随�
 
 ### 2026 年 10 月 10 日 · 首个公开发布
 
-首次发布为 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**；当前下载已更新为两端 **0.65.2**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
+首次发布为 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**；当前下载已更新为两端 **0.65.3**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
 
 安装说明保留在本 README：**先更新官方 3.00，再更新 FRAME 固件**。
 
