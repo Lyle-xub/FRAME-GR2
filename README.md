@@ -25,13 +25,14 @@
 
 ## 下载与开始
 
-**当前发布：WN3 固件 · Android 0.65.3 · macOS 0.65.3**
+**当前发布：WN3 固件 · Android 0.65.3 · macOS 0.65.3 · Windows 0.66.1**
 
 | 下载 | 适用对象 | 内容 |
 | :-- | :-- | :-- |
 | **[WN3 相机固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-WN3-Firmware.zip)** | RICOH GR II | 固件、中文更新说明、校验值 |
 | **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Android-0.65.3.apk)** | Android 8.0 及以上 | APK 安装包 |
 | **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-macOS-0.65.3-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | DMG 安装包，运行时已内置 |
+| **[FRAME for Windows](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Windows-WN3-0.66.1-78-Setup.exe)** | Windows 10/11 x64 | EXE 安装程序，运行时已内置 |
 
 [所有发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v0.62.1-wn3) · [SHA256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/SHA256SUMS.txt)
 
@@ -57,7 +58,7 @@
 
 #### 安装 App 开始使用
 
-按平台安装 Android APK 或 Mac DMG，连接相机 Wi-Fi 后打开 FRAME，即可导入滤镜与关机素材。Mac 版采用本地签名，首次打开如遇系统拦截，可在系统“隐私与安全性”中按提示允许该应用。
+按平台安装 Android APK、Mac DMG 或 Windows EXE，连接相机 Wi-Fi 后打开 FRAME，即可导入滤镜与关机素材。Mac 版采用本地签名，首次打开如遇系统拦截，可在系统“隐私与安全性”中按提示允许该应用。
 
 ---
 
@@ -160,7 +161,7 @@
 
 ## 05 手机里挑选，相机里使用
 
-FRAME 现在同时提供 **Android 与 macOS** 版本。手机上随手管理，Mac 上用更宽敞的预览空间，把喜欢的风格整理成自己的收藏。
+FRAME 现在同时提供 **Android、macOS 与 Windows** 版本。手机上随手管理，电脑上用更宽敞的预览空间，把喜欢的风格整理成自己的收藏。
 
 ![FRAME 实际滤镜库、相机功能与彩色图标页面](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/frame-app.jpg)
 
@@ -200,6 +201,10 @@ Mac 版提供自适应桌面布局、侧边导航与分栏预览，运行时随�
 
 ## 详细公告与更新记录
 
+### 2026 年 10 月 11 日 · Windows 0.66.1
+
+新增 Windows 10/11 x64 安装版，基于 App 0.65.3 / WN3，延续统一界面；修复退出卡住，支持安装、升级与卸载，保留个人滤镜数据。已由用户实机测试通过。
+
 ### 2026 年 10 月 10 日 · Android 与 macOS 0.65.3
 
 - 修复部分新导入滤镜在详情页点击“导入到相机”后没有反应的问题。需要近似转换的滤镜现在会正常显示确认窗口，确认后继续导入，取消则停止。
@@ -220,7 +225,7 @@ Mac 版提供自适应桌面布局、侧边导航与分栏预览，运行时随�
 
 ### 2026 年 10 月 10 日 · 首个公开发布
 
-首次发布为 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**；当前下载已更新为两端 **0.65.3**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
+首次发布为 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**；当前 Android / macOS 下载为 **0.65.3**，Windows 安装版为 **0.66.1**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
 
 安装说明保留在本 README：**先更新官方 3.00，再更新 FRAME 固件**。
 
