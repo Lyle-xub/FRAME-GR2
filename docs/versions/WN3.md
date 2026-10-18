@@ -66,7 +66,7 @@
 
 #### 安装 App 开始使用
 
-按平台安装 Android APK、Mac DMG 或 Windows EXE，连接相机 Wi-Fi 后打开 FRAME，即可导入滤镜与关机素材。Mac 版采用本地签名，首次打开如遇系统拦截，可在系统“隐私与安全性”中按提示允许该应用。
+按平台安装 Android APK、Mac DMG 或 Windows EXE，连接相机 Wi-Fi 后打开 FRAME，即可导入滤镜与关机素材。macOS 安装包已通过 Apple 公证。
 
 ---
 
