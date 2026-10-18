@@ -16,7 +16,7 @@
 | **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Android-1.0.3-103.apk)** | Android 8.0 及以上 | APK 安装包 |
 | **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-macOS-1.0.3-103-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | 已公证 DMG，运行时内置 |
 | **[FRAME for Windows](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Windows-1.0.3-103-Setup.exe)** | Windows 10/11 x64 | 安装版；[便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Windows-x64-1.0.3-103.zip) |
-| **FRAME for iPhone / iPad** | iOS / iPadOS 16 及以上 | TestFlight 准备中 |
+| **FRAME for iPhone / iPad** | iOS / iPadOS 16 及以上 | [加入 TestFlight 测试](https://testflight.apple.com/join/UHu8JxZn) · **1.0.3 外测审核中** |
 
 [全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.3) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [WN9 固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WN9.md)
 

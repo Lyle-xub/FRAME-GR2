@@ -16,7 +16,9 @@ FRAME 用于管理 RICOH GR II 的滤镜、素材与照片。手机与电脑采�
 
 **支持平台：Android、macOS（Apple Silicon）、Windows x64、iPhone / iPad。**
 
-iPhone / iPad 的 TestFlight 正在准备。
+iPhone / iPad 的 **1.0.3（103）已开放内部测试，并已提交 Apple 外部 Beta 审核**。
+
+[加入 TestFlight 公开测试](https://testflight.apple.com/join/UHu8JxZn)；新版本通过 Apple 审核后将向公开测试群组开放。
 
 [下载当前版本](https://github.com/Lyle-xub/FRAME-GR2#下载与开始) · [WN9 固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WN9.md) · [WN3 历史说明](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)
 
