@@ -8,6 +8,11 @@
 - 提供 HDF、胶片颗粒、高光溢出和横向拉丝；两项光效在颜色处理完成后叠加。
 - 配套 App 可导入个人 CUBE / XMP，并选择 WN3 拟合或 V5 联合拟合。
 
+### 参数与音效
+
+- 「无」滤镜也可按 Fn2 调整参数；原生、负片和自定滤镜按各自支持范围显示参数。
+- 支持对焦确认音和快门提示音的自定义、开关与音量调整，配套 App 可导入、裁切和试听音频。
+
 ### 构图与照片装饰
 
 - 支持 XPan、自定义照片比例与独立 RAW 比例设置。
@@ -23,3 +28,5 @@
 [下载 WN9 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-GR2-WN9-Firmware.zip) · [原始固件文件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/rg2_v003.frm) · [校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/SHA256SUMS.txt)
 
 [查看 WN9 相对 WN3 的新增功能](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md)
+
+[查看本版修复与优化清单](https://github.com/Lyle-xub/FRAME-GR2#修复与优化)
