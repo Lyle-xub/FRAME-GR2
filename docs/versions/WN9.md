@@ -1,14 +1,16 @@
-<h1 align="center">FRAME · WN9</h1>
+<h1 align="center">FRAME · WN9（测试版）</h1>
 <p align="center">把更多光影与色彩选择，带进 GR II。</p>
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg" alt="WN9 · 当前版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg" alt="WN3 · 历史版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wn3-current-20261019" alt="WN3 · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wn3-current-20261019" alt="WN9 · 测试版本" height="32"></a>
 </p>
 <p align="center"><a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md">软件介绍</a> · <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WN9.md">WN9 固件介绍</a> · <a href="#下载与开始">下载与开始</a></p>
 
+> **当前默认固件：WN3。** WN9 正在修复与验证，暂列为[测试版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md)。
+
 ## 下载与开始
 
-**当前版本：WN9 固件 · FRAME App 1.0.3（103）**
+**测试版本：WN9 固件 · FRAME App 1.0.3（103）**
 
 | 下载 | 适用对象 | 内容 |
 | :-- | :-- | :-- |

@@ -1,4 +1,6 @@
-# FRAME · WN9 固件
+# FRAME · WN9 固件（测试版）
+
+> **当前默认固件：WN3。** WN9 正在修复与验证，暂列为[测试版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md)。
 
 **适用机型：RICOH GR II。** WN9 在相机原有菜单和拍摄流程中提供更多色彩、光效、画幅和照片信息选择。
 

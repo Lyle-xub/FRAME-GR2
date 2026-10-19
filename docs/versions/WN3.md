@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg" alt="WN9 · 当前版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg" alt="WN3 · 历史版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wn3-current-20261019" alt="WN3 · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wn3-current-20261019" alt="WN9 · 测试版本" height="32"></a>
 </p>
 
-> **WN3 历史功能说明** · 功能介绍保留 WN3 发布时的内容；“下载与开始”统一提供当前 WN9 固件和最新版 App。
+> **当前默认固件：WN3。** WN9 正在修复与验证，暂列为[测试版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md)。
 
 <p align="center">
   <img src="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/frame-hero.jpg" alt="FRAME — 把喜欢的色彩，带进 GR II" width="100%">
 </p>
 
-<h1 align="center">FRAME · GR II</h1>
+<h1 align="center">FRAME · WN3</h1>
 <p align="center"><b>还是那台随身相机，多了属于你的表达。</b></p>
 <p align="center">负片与个人 LUT · HDF 与胶片颗粒 · 机内照片装饰 · 全屏关机画面与音效</p>
 <p align="center">
@@ -32,17 +32,17 @@
 
 ## 下载与开始
 
-**当前版本：WN9 固件 · FRAME App 1.0.3（103）**
+**当前默认固件：WN3 · FRAME App 1.0.3（103）**
 
 | 下载 | 适用对象 | 内容 |
 | :-- | :-- | :-- |
-| **[WN9 相机固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-GR2-WN9-Firmware.zip)** | RICOH GR II | 固件、更新说明与校验值；[原始固件文件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/rg2_v003.frm) |
+| **[WN3 相机固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-WN3-Firmware.zip)** | RICOH GR II | WN3 固件、安装说明与校验值 |
 | **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Android-1.0.3-103.apk)** | Android 8.0 及以上 | APK 安装包 |
 | **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-macOS-1.0.3-103-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | 已公证 DMG，运行时内置 |
 | **[FRAME for Windows](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Windows-1.0.3-103-Setup.exe)** | Windows 10/11 x64 | 安装版；[便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Windows-x64-1.0.3-103.zip) |
 | **FRAME for iPhone / iPad** | iOS / iPadOS 16 及以上 | [加入 TestFlight 测试](https://testflight.apple.com/join/UHu8JxZn) · **1.0.3 外测审核中** |
 
-[全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.3) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [WN9 固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WN9.md)
+[WN3 发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v0.62.1-wn3) · [WN3 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/SHA256SUMS.txt) · [App 1.0.3 附件与测试版固件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.3) · [App 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md)
 
 > 固件适用于 RICOH GR II。首次安装 FRAME 前，请先更新到理光官方 3.00；更新时使用充满的电池，写入期间保持供电。
 
@@ -57,7 +57,7 @@
 
 #### 第二步 再更新 FRAME 固件
 
-1. 下载上方 **WN9 相机固件**，解压出本固件的 `rg2_v003.frm`。
+1. 下载上方 **WN3 相机固件**，解压出本固件的 `rg2_v003.frm`。
 2. 相机正常关机，用本固件文件替换 SD 卡根目录中上一步的官方固件文件。每次只放当前步骤的那一份固件。
 3. 装回 SD 卡，关机状态下**按住上方向／微距键，再长按回放键**，进入版本确认页后按提示更新。
 4. 等待明确完成，按屏幕提示结束。正常启动后，移除卡根目录中的更新文件。
@@ -233,7 +233,7 @@ Mac 版提供自适应桌面布局、侧边导航与分栏预览，运行时随�
 
 ### 2026 年 10 月 10 日 · 首个公开发布
 
-首次发布为 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**；当前 Android / macOS 下载为 **0.65.3**，Windows 安装版为 **0.66.1**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
+首次发布为 **WN3 固件、Android 0.62.0 与 macOS 0.62.1**；该次发布后续更新的 Android / macOS 为 **0.65.3**，Windows 安装版为 **0.66.1**。根目录仅保留本 README；安装包与实拍展示素材统一放在 [Releases](https://github.com/Lyle-xub/FRAME-GR2/releases)。
 
 安装说明保留在本 README：**先更新官方 3.00，再更新 FRAME 固件**。
 

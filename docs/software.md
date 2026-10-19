@@ -1,5 +1,9 @@
 # FRAME 软件
 
+> **当前默认固件：WN3。** WN9 正在修复与验证，暂列为[测试版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md)。
+
+以下为 App 1.0.3 的功能说明，部分新增功能需要 WN9 测试固件。
+
 FRAME 用于管理 RICOH GR II 的滤镜、素材与照片。手机与电脑采用统一的功能分组，处理和拟合在本机完成。
 
 | 功能 | 可以完成的操作 |
@@ -20,6 +24,8 @@ iPhone / iPad 的 **1.0.3（103）已开放内部测试，并已提交 Apple 外
 
 [加入 TestFlight 公开测试](https://testflight.apple.com/join/UHu8JxZn)；新版本通过 Apple 审核后将向公开测试群组开放。
 
-[下载当前版本](https://github.com/Lyle-xub/FRAME-GR2#下载与开始) · [WN9 固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WN9.md) · [WN3 历史说明](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)
+[下载 WN3 固件与配套 App](https://github.com/Lyle-xub/FRAME-GR2#下载与开始) · [WN9 固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WN9.md) · [WN3 当前版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)
 
-[查看修复与优化清单](https://github.com/Lyle-xub/FRAME-GR2#修复与优化)
+[查看修复与优化清单](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md#修复与优化)
+
+[App 1.0.3 下载附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.3)
