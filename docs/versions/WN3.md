@@ -32,17 +32,16 @@
 
 ## 下载与开始
 
-**当前默认固件：WN3 · FRAME App 1.0.3（103）**
+**WN3 配套版本：Android 0.65.3 · macOS 0.65.3 · Windows 0.66.1（78）**
 
 | 下载 | 适用对象 | 内容 |
 | :-- | :-- | :-- |
 | **[WN3 相机固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-GR2-WN3-Firmware.zip)** | RICOH GR II | WN3 固件、安装说明与校验值 |
-| **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Android-1.0.3-103.apk)** | Android 8.0 及以上 | APK 安装包 |
-| **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-macOS-1.0.3-103-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | 已公证 DMG，运行时内置 |
-| **[FRAME for Windows](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Windows-1.0.3-103-Setup.exe)** | Windows 10/11 x64 | 安装版；[便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Windows-x64-1.0.3-103.zip) |
-| **FRAME for iPhone / iPad** | iOS / iPadOS 16 及以上 | [加入 TestFlight 测试](https://testflight.apple.com/join/UHu8JxZn) · **1.0.3 外测审核中** |
+| **[FRAME for Android 0.65.3](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Android-0.65.3.apk)** | Android 8.0 及以上 | WN3 配套 APK 安装包 |
+| **[FRAME for macOS 0.65.3](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-macOS-0.65.3-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | WN3 配套 DMG，运行时内置 |
+| **[FRAME for Windows 0.66.1（78）](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/FRAME-Windows-WN3-0.66.1-78-Setup.exe)** | Windows 10/11 x64 | WN3 配套 EXE 安装程序，运行时内置 |
 
-[WN3 发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v0.62.1-wn3) · [WN3 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/SHA256SUMS.txt) · [App 1.0.3 附件与测试版固件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.3) · [App 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md)
+[WN3 全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v0.62.1-wn3) · [WN3 固件与 App 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/SHA256SUMS.txt) · [WN3 配套软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md#wn3-配套软件)
 
 > 固件适用于 RICOH GR II。首次安装 FRAME 前，请先更新到理光官方 3.00；更新时使用充满的电池，写入期间保持供电。
 
@@ -66,7 +65,7 @@
 
 #### 安装 App 开始使用
 
-按平台安装 Android APK、Mac DMG 或 Windows EXE，连接相机 Wi-Fi 后打开 FRAME，即可导入滤镜与关机素材。macOS 安装包已通过 Apple 公证。
+按平台安装 Android APK、Mac DMG 或 Windows EXE，连接相机 Wi-Fi 后打开 FRAME，即可导入滤镜与关机素材。macOS 0.65.3 采用本地签名；首次打开如遇系统拦截，可在系统“隐私与安全性”中按提示允许该应用。
 
 ---
 
