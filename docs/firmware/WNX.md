@@ -1,12 +1,12 @@
-# FRAME · WNX 固件
+# FRAME · WNX-L1 固件
 
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=wnx-20261022" alt="WNX · 当前版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wnx-20261022" alt="WN3 · 历史版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wnx-20261022" alt="WN9 · 历史测试版" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=wnx-l1-20261023" alt="WNX-L1 · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wnx-l1-20261023" alt="WN3 · 历史版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wnx-l1-20261023" alt="WN9 · 历史测试版" height="32"></a>
 </p>
 
-**适用机型：RICOH GR II；配套软件：FRAME 1.0.4（104）。**
+**适用机型：RICOH GR II；配套软件：FRAME 1.0.5；Android / macOS / Windows 构建 105，iOS 构建 106。**
 
 ## WNX 相对 WN3 的新增功能
 
@@ -38,14 +38,14 @@
 - **多平台**：Android、Apple Silicon Mac、Intel Mac、Windows、iPhone / iPad 使用一致的功能分组。
 - **统一反馈**：浮层进度与结果提示，减少旧连接和后台任务对新操作的干扰。
 
-[WNX 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.4/FRAME-GR2-WNX-Firmware.zip) · [原始固件文件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.4/rg2_v003.frm) · [校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.4/SHA256SUMS.txt)
+[WNX-L1 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-GR2-WNX-L1-Firmware.zip) · [原始固件文件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/rg2_v003.frm) · [校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/SHA256SUMS.txt)
 
 ## 安装与使用
 
 首次安装 FRAME 前，先按理光官方说明确认 GR II 已更新至官方 3.00；升级文件保持 `rg2_v003.frm` 文件名。具体步骤可查看 [WN3 历史页面中的正常更新教程](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md#正常更新教程)，其中“FRAME 固件”请使用本页 WNX 文件。
 
-Mac 两种架构的安装包均已签名、公证并包含运行库。Windows 便携版须完整解压后运行。iOS 1.0.4 本轮只安排内部测试，旧公开邀请链接不用于分发本轮构建。
+Mac 两种架构的安装包均已签名、公证并包含运行库。Windows 便携版须完整解压后运行。iOS 1.0.5 本轮只安排内部测试，旧公开邀请链接不用于分发本轮构建。
 
 ## 已知问题
 
-WNX 沿用 R13 固件，冷启动偶发镜头伸缩仍未确认解决。当前发布不代表这一问题已经修复；需要已验证的旧启动表现时，可保留 [WN3 历史版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)。
+WNX-L1 优化早期加载器搬运与清零，但偶发额外镜头伸缩尚未取得实机修复确认。机内仍显示 WNX，单靠名称无法区分旧构建与 L1；请核对固件 SHA-256：`c8fb8602b92bc7e4727080b538e6530b45fdf527aeb385a1d41f97a3687dbdbe`。历史固件保留作回退。
