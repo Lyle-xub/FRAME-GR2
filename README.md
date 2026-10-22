@@ -10,7 +10,7 @@
 
 ## 下载与开始
 
-**当前配套：WNX 固件 · FRAME App 1.0.4（104）。** Android、Mac 和 Windows 安装包与本页版本对应；iOS 同版本先进入 TestFlight 内部测试。
+**当前配套：WNX 固件 · FRAME App 1.0.4（104）。** Android、Mac 和 Windows 安装包与本页版本对应；iOS 同版本已开启 TestFlight 内部测试。
 
 | 平台 | 下载与版本 | 要求 |
 | :-- | :-- | :-- |
@@ -19,7 +19,7 @@
 | Mac · Apple Silicon | [FRAME 1.0.4（104）arm64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.4/FRAME-macOS-1.0.4-104-arm64.dmg) | macOS 13 及以上 |
 | Mac · Intel | [FRAME 1.0.4（104）x64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.4/FRAME-macOS-1.0.4-104-x64.dmg) | macOS 13 及以上 |
 | Windows | [FRAME 1.0.4（104）安装版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.4/FRAME-Windows-1.0.4-104-Setup.exe) · [便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.4/FRAME-Windows-x64-1.0.4-104.zip) | Windows 10/11 x64 |
-| iPhone / iPad | **1.0.4（104）· TestFlight 内部测试准备中** | iOS / iPadOS 16 及以上，仅已获授权的内部测试成员 |
+| iPhone / iPad | **1.0.4（104）· TestFlight 内部测试已开启** | iOS / iPadOS 16 及以上，仅已获授权的内部测试成员 |
 
 [全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.4) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.4/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WNX.md)
 
