@@ -1,15 +1,16 @@
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wn3-current-20261019" alt="WN3 · 当前版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wn3-current-20261019" alt="WN9 · 测试版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=wnx-20261022" alt="WNX · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wnx-20261022" alt="WN3 · 历史版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wnx-20261022" alt="WN9 · 历史测试版" height="32"></a>
 </p>
 
-> **当前默认固件：WN3。** WN9 正在修复与验证，暂列为[测试版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md)。
+> **WN3 历史版本。** 本页保留原配套版本与说明；[当前 WNX / App 1.0.4](https://github.com/Lyle-xub/FRAME-GR2)。
 
 <p align="center">
   <img src="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/frame-hero.jpg" alt="FRAME — 把喜欢的色彩，带进 GR II" width="100%">
 </p>
 
-<h1 align="center">FRAME · WN3</h1>
+<h1 align="center">FRAME · WN3（历史版本）</h1>
 <p align="center"><b>还是那台随身相机，多了属于你的表达。</b></p>
 <p align="center">负片与个人 LUT · HDF 与胶片颗粒 · 机内照片装饰 · 全屏关机画面与音效</p>
 <p align="center">

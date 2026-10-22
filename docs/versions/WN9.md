@@ -1,12 +1,13 @@
-<h1 align="center">FRAME · WN9（测试版）</h1>
+<h1 align="center">FRAME · WN9（历史测试版）</h1>
 <p align="center">把更多光影与色彩选择，带进 GR II。</p>
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wn3-current-20261019" alt="WN3 · 当前版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wn3-current-20261019" alt="WN9 · 测试版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=wnx-20261022" alt="WNX · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wnx-20261022" alt="WN3 · 历史版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wnx-20261022" alt="WN9 · 历史测试版" height="32"></a>
 </p>
 <p align="center"><a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md">软件介绍</a> · <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WN9.md">WN9 固件介绍</a> · <a href="#下载与开始">下载与开始</a></p>
 
-> **当前默认固件：WN3。** WN9 正在修复与验证，暂列为[测试版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md)。
+> **WN9 历史测试版本。** 本页保留原配套版本与说明；[当前 WNX / App 1.0.4](https://github.com/Lyle-xub/FRAME-GR2)。
 
 ## 下载与开始
 
@@ -18,7 +19,7 @@
 | **[FRAME for Android](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Android-1.0.3-103.apk)** | Android 8.0 及以上 | APK 安装包 |
 | **[FRAME for macOS](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-macOS-1.0.3-103-arm64.dmg)** | Apple Silicon · macOS 13 及以上 | 已公证 DMG，运行时内置 |
 | **[FRAME for Windows](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Windows-1.0.3-103-Setup.exe)** | Windows 10/11 x64 | 安装版；[便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/FRAME-Windows-x64-1.0.3-103.zip) |
-| **FRAME for iPhone / iPad** | iOS / iPadOS 16 及以上 | [加入 TestFlight 测试](https://testflight.apple.com/join/UHu8JxZn) · **1.0.3 外测审核中** |
+| **FRAME for iPhone / iPad** | iOS / iPadOS 16 及以上 | 1.0.3 历史测试构建；当前 iOS 1.0.4 仅安排内部测试 |
 
 [全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.3) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.3/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [WN9 固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WN9.md)
 
