@@ -76,7 +76,27 @@ Mac 两种架构的安装包均已签名、公证并包含运行库。Windows �
 
 WNX 沿用 R13 固件，冷启动偶发镜头伸缩仍未确认解决。当前发布不代表这一问题已经修复；需要已验证的旧启动表现时，可保留 [WN3 历史版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)。
 
+## 支持开发
+
+如果 FRAME 让你的 GR II 多了一点想拍的理由，欢迎请我喝杯咖啡，支持后续开发与维护。
+
+赞赏完全自愿。点一个 Star、分享你的作品或反馈使用体验，也同样是很好的支持。
+
+<p align="center">
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/support-wechat.png">
+    <img src="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/support-wechat.png" alt="通过微信支付支持 FRAME 开发" width="300">
+  </a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/support-alipay.png">
+    <img src="https://github.com/Lyle-xub/FRAME-GR2/releases/download/v0.62.1-wn3/support-alipay.png" alt="通过支付宝支持 FRAME 开发" width="300">
+  </a>
+</p>
+<p align="center"><sub>使用对应 App 扫码；也可点击图片保存后识别。感谢每一份支持。</sub></p>
+
 ## 历史版本
 
 - [WN3 历史版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)：保留 Android / macOS 0.65.3、Windows 0.66.1（78）配套下载与原使用说明。
 - [WN9 历史测试版](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md)：保留 App 1.0.3（103）资料。
+
+---
+
+FRAME 为独立扩展项目，不代表理光官方发布。胶片与相机商标归各自权利人所有。
