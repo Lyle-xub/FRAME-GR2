@@ -6,22 +6,22 @@
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wnx-l1-20261023" alt="WN9 · 历史测试版" height="32"></a>
 </p>
 
-**当前配套 WNX-L1 固件与 App 1.0.5（105），iOS 为 1.0.5（106）。**
+**当前配套 WNX-L1 固件与 App 1.0.6（107），iOS 为 1.0.6（107）。**
 
 ## 下载与开始
 
-**当前配套：WNX-L1 固件 · FRAME App 1.0.5（105），iOS 为 1.0.5（106）。** Android、Mac 和 Windows 安装包与本页版本对应；iOS 同版本已开启 TestFlight 内部测试。
+**当前配套：WNX-L1 固件 · FRAME App 1.0.6（107），iOS 为 1.0.6（107）。** Android、Mac 和 Windows 安装包与本页版本对应；iOS 同版本已提交 TestFlight 公测审核，审核通过后开放。
 
 | 平台 | 下载与版本 | 要求 |
 | :-- | :-- | :-- |
-| GR II 固件 | [WNX-L1 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-GR2-WNX-L1-Firmware.zip) · [原始固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/rg2_v003.frm) | RICOH GR II |
-| Android | [FRAME 1.0.5（105）APK](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-Android-1.0.5-105.apk) | Android 8.0 及以上 |
-| Mac · Apple Silicon | [FRAME 1.0.5（105）arm64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-macOS-1.0.5-105-arm64.dmg) | macOS 13 及以上 |
-| Mac · Intel | [FRAME 1.0.5（105）x64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-macOS-1.0.5-105-x64.dmg) | macOS 13 及以上 |
-| Windows | [FRAME 1.0.5（105）安装版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-Windows-1.0.5-105-Setup.exe) · [便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-Windows-x64-1.0.5-105.zip) | Windows 10/11 x64 |
-| iPhone / iPad | **1.0.5（106）· TestFlight 内部测试已开启** | iOS / iPadOS 16 及以上，仅已获授权的内部测试成员 |
+| GR II 固件 | [WNX-L1 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-GR2-WNX-L1-Firmware.zip) · [原始固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm) | RICOH GR II |
+| Android | [FRAME 1.0.6（107）APK](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Android-1.0.6-107.apk) | Android 8.0 及以上 |
+| Mac · Apple Silicon | [FRAME 1.0.6（107）arm64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.6-107-arm64.dmg) | macOS 13 及以上 |
+| Mac · Intel | [FRAME 1.0.6（107）x64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.6-107-x64.dmg) | macOS 13 及以上 |
+| Windows | [FRAME 1.0.6（107）安装版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-1.0.6-107-Setup.exe) · [便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-x64-1.0.6-107.zip) | Windows 10/11 x64 |
+| iPhone / iPad | [1.0.6（107）· TestFlight 公测入口](https://testflight.apple.com/join/UHu8JxZn) | iOS / iPadOS 16 及以上；107 正在等待 Apple 公测审核 |
 
-[全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.5) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WNX.md)
+[全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.6) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WNX.md)
 
 ## WNX 相对 WN3 的新增功能
 

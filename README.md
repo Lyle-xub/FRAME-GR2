@@ -6,22 +6,22 @@
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wnx-l1-20261023" alt="WN9 · 历史测试版" height="32"></a>
 </p>
 
-<p align="center"><b>WNX-L1 固件 · App 1.0.5</b></p>
+<p align="center"><b>WNX-L1 固件 · App 1.0.6</b></p>
 
 ## 下载与开始
 
-**当前配套：WNX-L1 固件 · FRAME App 1.0.5（105），iOS 为 1.0.5（106）。** Android、Mac 和 Windows 安装包与本页版本对应；iOS 同版本已开启 TestFlight 内部测试。
+**当前配套：WNX-L1 固件 · FRAME App 1.0.6（107），iOS 为 1.0.6（107）。** Android、Mac 和 Windows 安装包与本页版本对应；iOS 同版本已提交 TestFlight 公测审核，审核通过后开放。
 
 | 平台 | 下载与版本 | 要求 |
 | :-- | :-- | :-- |
-| GR II 固件 | [WNX-L1 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-GR2-WNX-L1-Firmware.zip) · [原始固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/rg2_v003.frm) | RICOH GR II |
-| Android | [FRAME 1.0.5（105）APK](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-Android-1.0.5-105.apk) | Android 8.0 及以上 |
-| Mac · Apple Silicon | [FRAME 1.0.5（105）arm64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-macOS-1.0.5-105-arm64.dmg) | macOS 13 及以上 |
-| Mac · Intel | [FRAME 1.0.5（105）x64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-macOS-1.0.5-105-x64.dmg) | macOS 13 及以上 |
-| Windows | [FRAME 1.0.5（105）安装版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-Windows-1.0.5-105-Setup.exe) · [便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/FRAME-Windows-x64-1.0.5-105.zip) | Windows 10/11 x64 |
-| iPhone / iPad | **1.0.5（106）· TestFlight 内部测试已开启** | iOS / iPadOS 16 及以上，仅已获授权的内部测试成员 |
+| GR II 固件 | [WNX-L1 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-GR2-WNX-L1-Firmware.zip) · [原始固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm) | RICOH GR II |
+| Android | [FRAME 1.0.6（107）APK](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Android-1.0.6-107.apk) | Android 8.0 及以上 |
+| Mac · Apple Silicon | [FRAME 1.0.6（107）arm64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.6-107-arm64.dmg) | macOS 13 及以上 |
+| Mac · Intel | [FRAME 1.0.6（107）x64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.6-107-x64.dmg) | macOS 13 及以上 |
+| Windows | [FRAME 1.0.6（107）安装版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-1.0.6-107-Setup.exe) · [便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-x64-1.0.6-107.zip) | Windows 10/11 x64 |
+| iPhone / iPad | [1.0.6（107）· TestFlight 公测入口](https://testflight.apple.com/join/UHu8JxZn) | iOS / iPadOS 16 及以上；107 正在等待 Apple 公测审核 |
 
-[全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.5) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.5/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WNX.md)
+[全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.6) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WNX.md)
 
 ---
 
@@ -55,21 +55,19 @@
 - **多平台**：Android、Apple Silicon Mac、Intel Mac、Windows、iPhone / iPad 使用一致的功能分组。
 - **统一反馈**：浮层进度与结果提示，减少旧连接和后台任务对新操作的干扰。
 
-## App 1.0.5 修复与优化
+## App 1.0.6 修复与优化
 
-- 各端参考图支持添加、逐张删除、全部删除并保存；保留所选顺序，空列表不会自动恢复内置图。
-- 修复 Android 打包环境中参考图处理脚本路径不可直接读取导致的保存失败。
-- 修复 iOS 忙碌状态切换时 SD、水印、照片等功能页反复重建、闪烁和丢失读取状态。
-- iOS 106 修复文件操作对象在后台任务结束后被释放，导致照片下载后保存失败，以及关机图片、动画、视频导入空指针的问题。
-- iOS 导出失败时显示具体阶段与原因，并保留已接收数据量；未保存的照片不会被计为导出成功。
-- 修复 iOS 参考图运行库初始化卡住；限制关机图片预览尺寸和重复传输，最终编码使用原始帧。
-- 修复 iOS 内置 PCM WAV 音效读取，并补充可读错误和诊断信息。
+- 修复更换参考图后长期停在“正在保存滤镜”：保存只写入参考图选择和原图，色彩预览在独立队列中按需生成。
+- 保存期间仍可滚动页面；预览显示进度，支持取消和重新生成，忽略取消后的旧结果。
+- 待生成预览时先显示并标注参考原图；复用已有内置预览。缓存淘汰只清理派生图，不删除保存的原图。
+- 支持最多 12 张参考图、逐张删除、全部删除后保存，以及失败回滚。
+- 保留 Android 打包脚本路径修复，以及 iOS 文件系统对象生命周期、照片最终保存、关机图片／动画／视频导入、内置音效读取和功能页闪烁修复。
 
 ## 安装与使用
 
 首次安装 FRAME 前，先按理光官方说明确认 GR II 已更新至官方 3.00；升级文件保持 `rg2_v003.frm` 文件名。具体步骤可查看 [WN3 历史页面中的正常更新教程](docs/versions/WN3.md#正常更新教程)，其中“FRAME 固件”请使用本页 WNX 文件。
 
-Mac 两种架构的安装包均已签名、公证并包含运行库。Windows 便携版须完整解压后运行。iOS 1.0.5 本轮只安排内部测试，旧公开邀请链接不用于分发本轮构建。
+Mac 两种架构的安装包均已签名、公证并包含运行库。Windows 便携版须完整解压后运行。iOS 1.0.6（107）已提交公测审核，审核通过后会自动开放并通知测试员。[加入 TestFlight 公测](https://testflight.apple.com/join/UHu8JxZn)。
 
 ## 已知问题
 
