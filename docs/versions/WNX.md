@@ -1,20 +1,20 @@
-<h1 align="center">FRAME · WNX-L1</h1>
+<h1 align="center">FRAME · WNX-L2</h1>
 <p align="center">把喜欢的色彩、构图和声音，带进 GR II。</p>
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=wnx-l1-20261023" alt="WNX-L1 · 当前版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=wnx-l1-20261023" alt="WN3 · 历史版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=wnx-l1-20261023" alt="WN9 · 历史测试版" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=WNX-L2-20261025" alt="WNX-L2 · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=WNX-L2-20261025" alt="WN3 · 历史版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=WNX-L2-20261025" alt="WN9 · 历史测试版" height="32"></a>
 </p>
 
-<p align="center"><b>WNX-L1 固件 · App 1.0.6</b></p>
+<p align="center"><b>WNX-L2 固件 · App 1.0.6</b></p>
 
 ## 下载与开始
 
-**当前配套：WNX-L1 固件 · FRAME App 1.0.6（107），iOS 为 1.0.6（107）。** Android、Mac 和 Windows 安装包与本页版本对应；iOS 同版本已提交 TestFlight 公测审核，审核通过后开放。
+**当前配套：WNX-L2 固件 · FRAME App 1.0.6（107），iOS 为 1.0.6（107）。** Android、Mac 和 Windows 安装包与本页版本对应；iOS 同版本已提交 TestFlight 公测审核，审核通过后开放。
 
 | 平台 | 下载与版本 | 要求 |
 | :-- | :-- | :-- |
-| GR II 固件 | [WNX-L1 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-GR2-WNX-L1-Firmware.zip) · [原始固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm) | RICOH GR II |
+| GR II 固件 | [WNX-L2 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-GR2-WNX-L2-Firmware.zip) · [原始固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm) | RICOH GR II |
 | Android | [FRAME 1.0.6（107）APK](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Android-1.0.6-107.apk) | Android 8.0 及以上 |
 | Mac · Apple Silicon | [FRAME 1.0.6（107）arm64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.6-107-arm64.dmg) | macOS 13 及以上 |
 | Mac · Intel | [FRAME 1.0.6（107）x64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.6-107-x64.dmg) | macOS 13 及以上 |
@@ -69,7 +69,7 @@
 
 Mac 两种架构的安装包均已签名、公证并包含运行库。Windows 便携版须完整解压后运行。iOS 1.0.6（107）已提交公测审核，审核通过后会自动开放并通知测试员。[加入 TestFlight 公测](https://testflight.apple.com/join/UHu8JxZn)。
 
-## WNX-L1
+## WNX-L2
 
 这是稳定版
 
