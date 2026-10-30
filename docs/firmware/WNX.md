@@ -1,12 +1,22 @@
-# FRAME · WNX-L2 固件
+# FRAME · WNX-L3 固件
 
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=WNX-L2-20261025" alt="WNX-L2 · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=WNX-L3-20261031" alt="WNX-L3 · 当前版本" height="32"></a>
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=WNX-L2-20261025" alt="WN3 · 历史版本" height="32"></a>
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=WNX-L2-20261025" alt="WN9 · 历史测试版" height="32"></a>
 </p>
 
-**适用机型：RICOH GR II；配套软件：FRAME 1.0.6；各端构建 107。**
+**适用机型：RICOH GR II；配套软件：FRAME 1.0.9（110）。iOS 110 先内测，公测保留 1.0.7（108）。**
+
+## WNX-L3 新增功能与修复
+
+这是稳定版。
+
+- **机内滤镜管理**：通过 App 隐藏、恢复和排序原生滤镜；保留“自定”子菜单，主列表与自定列表分别排序。排序使用固定滤镜编号，参数、保存记录和导入槽位保持原有归属。
+- **更多机内水印**：新增拍立得；相机外框采用上方外框、下方原图的拼接方式，适配自定比例。照片完整保留，外框屏幕按比例填充；极端比例补白，改善颜色边缘错位。
+- **RAW 编辑与确认**：修复负片／自定滤镜预览和保存有时不生效、RAW 编辑后回放名称错误，以及内置水印按 OK 有时无响应。
+- **处理速度**：合并 H1 高光溢出处理优化，复用水印缩放与编码缓冲；启动流程和预读量保持当前验证布局。
+- **各端软件同步**：Android、Apple Silicon Mac、Intel Mac、Windows 更新至 FRAME 1.0.9（110），同步滤镜排序、隐藏／恢复及完整机内水印选项。iOS 1.0.9（110）先进行 TestFlight 内部测试；公开测试入口继续提供现有公测版本。
 
 ## WNX 相对 WN3 的新增功能
 
@@ -38,13 +48,13 @@
 - **多平台**：Android、Apple Silicon Mac、Intel Mac、Windows、iPhone / iPad 使用一致的功能分组。
 - **统一反馈**：浮层进度与结果提示，减少旧连接和后台任务对新操作的干扰。
 
-[WNX-L2 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-GR2-WNX-L2-Firmware.zip) · [原始固件文件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm) · [校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/SHA256SUMS.txt)
+[WNX-L3 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-GR2-WNX-L3-Firmware.zip) · [原始固件文件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm) · [校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/SHA256SUMS.txt)
 
 ## 安装与使用
 
 首次安装 FRAME 前，先按理光官方说明确认 GR II 已更新至官方 3.00；升级文件保持 `rg2_v003.frm` 文件名。具体步骤可查看 [WN3 历史页面中的正常更新教程](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md#正常更新教程)，其中“FRAME 固件”请使用本页 WNX 文件。
 
-Mac 两种架构的安装包均已签名、公证并包含运行库。Windows 便携版须完整解压后运行。iOS 1.0.6（107）已提交公测审核，审核通过后会自动开放并通知测试员。[加入 TestFlight 公测](https://testflight.apple.com/join/UHu8JxZn)。
+Mac 两种架构的安装包均已签名、公证并包含运行库。Windows 便携版须完整解压后运行。iOS 1.0.9（110）先进行 TestFlight 内部测试；公开测试入口继续提供 1.0.7（108）。[加入 TestFlight 公测](https://testflight.apple.com/join/UHu8JxZn)。
 
 ## WNX-L2
 
