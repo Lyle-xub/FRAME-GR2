@@ -1,0 +1,133 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "publishedAt": "2026-10-30T22:35:53.745641+00:00",
+  "platforms": {
+    "android": {
+      "version": "1.0.9",
+      "build": 110,
+      "installable": true,
+      "filename": "FRAME-Android-1.0.9-110.apk",
+      "sha256": "f7a27d1d7d8aee43c87894b33c0f75e6bbbd50df7b20ef7995fedf8a53999bd3",
+      "size": 168399128,
+      "notes": "同步原生滤镜隐藏、恢复和排序，以及拍立得、相机外框和三槽自定水印；兼容旧固件并按实际能力开放选项。",
+      "downloads": [
+        {
+          "label": "GitCode 下载",
+          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/FRAME-Android-1.0.9-110.apk"
+        },
+        {
+          "label": "GitHub 下载",
+          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Android-1.0.9-110.apk"
+        }
+      ]
+    },
+    "macos-arm64": {
+      "version": "1.0.9",
+      "build": 110,
+      "installable": true,
+      "filename": "FRAME-macOS-1.0.9-110-arm64.dmg",
+      "sha256": "ecebbc251f0652b7a77f9d923e509933c03ea322630e083c1b09081eacd92d4d",
+      "size": 223672417,
+      "notes": "同步原生滤镜隐藏、恢复和排序，以及拍立得、相机外框和三槽自定水印；兼容旧固件并按实际能力开放选项。",
+      "downloads": [
+        {
+          "label": "GitCode 下载",
+          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-arm64.dmg"
+        },
+        {
+          "label": "GitHub 下载",
+          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-arm64.dmg"
+        }
+      ]
+    },
+    "windows-x64": {
+      "version": "1.0.9",
+      "build": 110,
+      "installable": true,
+      "filename": "FRAME-Windows-1.0.9-110-Setup.exe",
+      "sha256": "9d9009da6483cfee58d7d256661eb1afe35c970f0fd1b096abecaffacbbfc85f",
+      "size": 185018011,
+      "notes": "同步原生滤镜隐藏、恢复和排序，以及拍立得、相机外框和三槽自定水印；兼容旧固件并按实际能力开放选项。",
+      "downloads": [
+        {
+          "label": "GitCode 下载",
+          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-1.0.9-110-Setup.exe"
+        },
+        {
+          "label": "GitHub 下载",
+          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-1.0.9-110-Setup.exe"
+        }
+      ]
+    },
+    "ios": {
+      "version": "1.0.7",
+      "build": 108,
+      "installable": false,
+      "message": "iOS 1.0.9（110）先进行内部测试；公测保留 1.0.7（108），请通过 TestFlight 更新：https://testflight.apple.com/join/UHu8JxZn",
+      "notes": "1.0.9（110）暂未发布公测。",
+      "downloads": []
+    },
+    "macos-x64": {
+      "version": "1.0.9",
+      "build": 110,
+      "installable": true,
+      "filename": "FRAME-macOS-1.0.9-110-x64.dmg",
+      "sha256": "0c22283e5e6bf12eed8dae15ddc4eb5c1fa8cbd5ad196f59620abe17d075f839",
+      "size": 252108757,
+      "notes": "同步原生滤镜隐藏、恢复和排序，以及拍立得、相机外框和三槽自定水印；兼容旧固件并按实际能力开放选项。",
+      "downloads": [
+        {
+          "label": "GitCode 下载",
+          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-x64.dmg"
+        },
+        {
+          "label": "GitHub 下载",
+          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-x64.dmg"
+        }
+      ]
+    }
+  },
+  "firmware": {
+    "id": "WNX-L3",
+    "name": "WNX-L3",
+    "models": [
+      "RICOH GR II",
+      "GR II",
+      "GR2",
+      "RICOH GR2",
+      "RICOH IMAGING COMPANY, LTD. GR II",
+      "RICOH COMPANY, LTD. GR II"
+    ],
+    "replaces": [
+      "WN9",
+      "WN8",
+      "WN7",
+      "WN6",
+      "WN3",
+      "WN4",
+      "WN5",
+      "WN3-MAIN-M11-RC",
+      "WN3-MAIN-M10-RC",
+      "WN3-MAIN-M9-RC",
+      "WN3-MAIN-M8-RC",
+      "WNX",
+      "WNX-L1",
+      "WNX-L2"
+    ],
+    "filename": "rg2_v003.frm",
+    "sha256": "e287708788892d17f230292f4d1fe87c50d93b7d09d6a8900f74af3f4b2d3ae0",
+    "size": 14935468,
+    "notes": "这是稳定版。新增滤镜管理、拍立得与相机外框水印，优化 RAW 编辑和高光溢出处理。",
+    "downloads": [
+      {
+        "label": "GitCode 下载",
+        "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/rg2_v003-WNX-L3-20261031.frm"
+      },
+      {
+        "label": "GitHub 下载",
+        "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm"
+      }
+    ]
+  }
+}
