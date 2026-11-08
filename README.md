@@ -2,6 +2,8 @@
 
 # FRAME · WNX-L5
 
+[WNX-L5 · 当前版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX-L5.md) · [WNX-L3 · 历史版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md) · [WN3 · 历史版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)
+
 **WNX-L5 固件 · FRAME 1.0.10（151）。** iOS 151已提交外部TestFlight审核，通过后将在原公测链接提供。
 
 ## 下载
