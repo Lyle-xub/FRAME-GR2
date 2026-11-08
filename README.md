@@ -1,5 +1,3 @@
-![FRAME WNX-L5 与软件 1.0.10 更新总览](https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/frame-wnx-l5-hero.png)
-
 <h1 align="center">FRAME · WNX-L3</h1>
 <p align="center">把喜欢的色彩、构图和声音，带进 GR II。</p>
 <p align="center">
