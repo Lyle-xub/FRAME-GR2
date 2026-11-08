@@ -1,20 +1,20 @@
-![FRAME WNX-L5 与软件 1.0.10 更新总览](https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/frame-wnx-l5-hero.png)
+![FRAME WNX-L5.1 与软件 1.0.10 更新总览](https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/frame-wnx-l5.1-hero.png)
 
-# FRAME · WNX-L5
+# FRAME · WNX-L5.1
 
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX-L5.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx-l5.svg" alt="WNX-L5 · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX-L5.1.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx-l5.1.svg" alt="WNX-L5.1 · 当前版本" height="32"></a>
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx-l3.svg" alt="WNX-L3 · 历史版本" height="32"></a>
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg" alt="WN3 · 历史版本" height="32"></a>
 </p>
 
-**WNX-L5 固件 · FRAME 1.0.10（151）。** iOS 151已提交外部TestFlight审核，通过后将在原公测链接提供。
+**WNX-L5.1 固件 · FRAME 1.0.10（151）。** iOS 151已提交外部TestFlight审核，通过后将在原公测链接提供。
 
 ## 下载
 
 | 平台 | 下载 | 要求 |
 | :-- | :-- | :-- |
-| GR II固件 | [FRAME-GR2-WNX-L5-Firmware.zip](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-GR2-WNX-L5-Firmware.zip) | RICOH GR II |
+| GR II固件 | [FRAME-GR2-WNX-L5.1-Firmware.zip](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-GR2-WNX-L5.1-Firmware.zip) | RICOH GR II |
 | Android通用版 | [FRAME-Android-1.0.10-151.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-1.0.10-151.apk) | Android 8.0及以上 |
 | Android ARM64 | [FRAME-Android-arm64-1.0.10-151.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-arm64-1.0.10-151.apk) | 可选较小安装包 |
 | Mac · Apple Silicon | [FRAME-macOS-1.0.10-151-arm64.dmg](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-arm64.dmg) | macOS 13及以上 |
@@ -25,7 +25,7 @@
 
 [GitHub发行版](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.10) · [GitCode国内下载](https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/v1.0.10) · [SHA-256校验](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/SHA256SUMS.txt)
 
-## WNX-L5：相对 WNX-L3 新增功能
+## WNX-L5.1：相对 WNX-L3 新增功能
 
 - **Live Photo 拍摄与回放**：支持机身按键短按或长按拍摄照片与配套短片，回放中显示 Live 标记；新版 App 可独立发起拍摄，无需重新绑定按键。
 - **电子管日期水印**：新增电子管风格的拍摄日期／时间，并优化样式选择和确认。
@@ -33,6 +33,8 @@
 - **GR II 相机外框**：更新相机背部外框素材及屏幕区域布局。
 - **自定滤镜读回与调参**：新版 App 可读取当前自定滤镜的实际基础颜色及菜单参数，按 IMAGE 分组保存、读回参数，并确认机身滤镜切换结果。
 - **实时取景状态**：向新版 App 提供画幅、自定义比例、裁切及 Shift 左右区域等读数，兼容原有状态读取方式。
+
+- **Live 回放与 MY 拍摄改进**：左右键直接切换前后文件并减少切图等待；修复删除前方照片后切到 Live 的黑屏、MENU 退出及方向键锁住、多图视图误自动播放问题；MY1/MY2/MY3 可使用各自独立绑定的 Live 按键，并保留拍摄前的当前参数。
 
 ## FRAME 1.0.10（151）：软件功能更新
 
