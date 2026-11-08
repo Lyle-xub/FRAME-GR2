@@ -1,96 +1,99 @@
 {
   "schema": 1,
   "channel": "stable",
-  "publishedAt": "2026-10-30T22:35:53.745641+00:00",
+  "publishedAt": "2026-11-08T11:26:19.451994+08:00",
   "platforms": {
     "android": {
-      "version": "1.0.9",
-      "build": 110,
+      "version": "1.0.10",
+      "build": 151,
       "installable": true,
-      "filename": "FRAME-Android-1.0.9-110.apk",
-      "sha256": "f7a27d1d7d8aee43c87894b33c0f75e6bbbd50df7b20ef7995fedf8a53999bd3",
-      "size": 168399128,
-      "notes": "同步原生滤镜隐藏、恢复和排序，以及拍立得、相机外框和三槽自定水印；兼容旧固件并按实际能力开放选项。",
+      "filename": "FRAME-Android-1.0.10-151.apk",
+      "sha256": "8562425c219f7f77878076d8036827e293d7e88c6e690520c8d4ba87d180b474",
+      "size": 225080555,
+      "notes": "- 实时预览：自定义比例按实际画幅显示遮罩；支持各拍摄比例下点击对焦与对焦框、裁切焦距切换，以及更清晰的白平衡、测光、连拍和尺寸读数。\n- 取景时切换与调节滤镜：支持滤镜切换、自定滤镜参数预览和确认写入；机身更换滤镜或调整参数后同步显示。可直接在 App 中拍摄照片和 Live。\n- 照片与 Live 编辑：滤镜、调色、裁切、旋转和边框可用于本地照片与 Live Photo，封面和动态一起保留效果；新增更多边框和自有水印编辑方式。\n- 高糊低保、诺基亚：新增两款质感滤镜，按色彩、清晰、光晕、紫边和颗粒分组调节；色彩组仅调整强度。JPEG 效果默认关闭，开启时提示仅保存后生效；诺基亚默认模糊 2.0‰、颗粒大小 1.2‰。\n- 滤镜库与编辑页：统一新建滤镜的默认图标，优化名称、图标来源和参考图的编辑布局。\n- 界面与连接体验：改善白色模式可读性；连接后先识别完整功能，再开放入口；未适配的固件功能明确显示为不可用。\n- 相册、传输与保存：改善照片浏览、Live 播放与导出、拟合和大图保存的稳定性，完善进度、取消及失败反馈；保存保留原尺寸。",
       "downloads": [
         {
           "label": "GitCode 下载",
-          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/FRAME-Android-1.0.9-110.apk"
+          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-1.0.10-151.apk"
         },
         {
           "label": "GitHub 下载",
-          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Android-1.0.9-110.apk"
+          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-1.0.10-151.apk"
         }
       ]
     },
     "macos-arm64": {
-      "version": "1.0.9",
-      "build": 110,
+      "version": "1.0.10",
+      "build": 151,
       "installable": true,
-      "filename": "FRAME-macOS-1.0.9-110-arm64.dmg",
-      "sha256": "ecebbc251f0652b7a77f9d923e509933c03ea322630e083c1b09081eacd92d4d",
-      "size": 223672417,
-      "notes": "同步原生滤镜隐藏、恢复和排序，以及拍立得、相机外框和三槽自定水印；兼容旧固件并按实际能力开放选项。",
+      "filename": "FRAME-macOS-1.0.10-151-arm64.dmg",
+      "sha256": "55645b3a8e2452ccea15682e85d72c488ae7d0c3418f36debea7a1661cab17e7",
+      "size": 209168586,
+      "notes": "- 实时预览：自定义比例按实际画幅显示遮罩；支持各拍摄比例下点击对焦与对焦框、裁切焦距切换，以及更清晰的白平衡、测光、连拍和尺寸读数。\n- 取景时切换与调节滤镜：支持滤镜切换、自定滤镜参数预览和确认写入；机身更换滤镜或调整参数后同步显示。可直接在 App 中拍摄照片和 Live。\n- 照片与 Live 编辑：滤镜、调色、裁切、旋转和边框可用于本地照片与 Live Photo，封面和动态一起保留效果；新增更多边框和自有水印编辑方式。\n- 高糊低保、诺基亚：新增两款质感滤镜，按色彩、清晰、光晕、紫边和颗粒分组调节；色彩组仅调整强度。JPEG 效果默认关闭，开启时提示仅保存后生效；诺基亚默认模糊 2.0‰、颗粒大小 1.2‰。\n- 滤镜库与编辑页：统一新建滤镜的默认图标，优化名称、图标来源和参考图的编辑布局。\n- 界面与连接体验：改善白色模式可读性；连接后先识别完整功能，再开放入口；未适配的固件功能明确显示为不可用。\n- 相册、传输与保存：改善照片浏览、Live 播放与导出、拟合和大图保存的稳定性，完善进度、取消及失败反馈；保存保留原尺寸。",
       "downloads": [
         {
           "label": "GitCode 下载",
-          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-arm64.dmg"
+          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-arm64.dmg"
         },
         {
           "label": "GitHub 下载",
-          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-arm64.dmg"
+          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-arm64.dmg"
         }
       ]
     },
     "windows-x64": {
-      "version": "1.0.9",
-      "build": 110,
+      "version": "1.0.10",
+      "build": 151,
       "installable": true,
-      "filename": "FRAME-Windows-1.0.9-110-Setup.exe",
-      "sha256": "9d9009da6483cfee58d7d256661eb1afe35c970f0fd1b096abecaffacbbfc85f",
-      "size": 185018011,
-      "notes": "同步原生滤镜隐藏、恢复和排序，以及拍立得、相机外框和三槽自定水印；兼容旧固件并按实际能力开放选项。",
+      "filename": "FRAME-Windows-1.0.10-151-Setup.exe",
+      "sha256": "47d194125cbe16ca343730507eba9ff39f2ce0c61633ce8d04d9b488c17a4b39",
+      "size": 215298887,
+      "notes": "- 实时预览：自定义比例按实际画幅显示遮罩；支持各拍摄比例下点击对焦与对焦框、裁切焦距切换，以及更清晰的白平衡、测光、连拍和尺寸读数。\n- 取景时切换与调节滤镜：支持滤镜切换、自定滤镜参数预览和确认写入；机身更换滤镜或调整参数后同步显示。可直接在 App 中拍摄照片和 Live。\n- 照片与 Live 编辑：滤镜、调色、裁切、旋转和边框可用于本地照片与 Live Photo，封面和动态一起保留效果；新增更多边框和自有水印编辑方式。\n- 高糊低保、诺基亚：新增两款质感滤镜，按色彩、清晰、光晕、紫边和颗粒分组调节；色彩组仅调整强度。JPEG 效果默认关闭，开启时提示仅保存后生效；诺基亚默认模糊 2.0‰、颗粒大小 1.2‰。\n- 滤镜库与编辑页：统一新建滤镜的默认图标，优化名称、图标来源和参考图的编辑布局。\n- 界面与连接体验：改善白色模式可读性；连接后先识别完整功能，再开放入口；未适配的固件功能明确显示为不可用。\n- 相册、传输与保存：改善照片浏览、Live 播放与导出、拟合和大图保存的稳定性，完善进度、取消及失败反馈；保存保留原尺寸。",
       "downloads": [
         {
           "label": "GitCode 下载",
-          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-1.0.9-110-Setup.exe"
+          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.10/FRAME-Windows-1.0.10-151-Setup.exe"
         },
         {
           "label": "GitHub 下载",
-          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-1.0.9-110-Setup.exe"
+          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Windows-1.0.10-151-Setup.exe"
         }
       ]
     },
     "ios": {
-      "version": "1.0.7",
-      "build": 108,
+      "version": "1.0.10",
+      "build": 151,
       "installable": false,
-      "message": "iOS 1.0.9（110）先进行内部测试；公测保留 1.0.7（108），请通过 TestFlight 更新：https://testflight.apple.com/join/UHu8JxZn",
-      "notes": "1.0.9（110）暂未发布公测。",
-      "downloads": []
+      "message": "iOS 1.0.10（151）已提交外部TestFlight审核，通过后将在原公测链接提供：https://testflight.apple.com/join/UHu8JxZn",
+      "notes": "- 实时预览：自定义比例按实际画幅显示遮罩；支持各拍摄比例下点击对焦与对焦框、裁切焦距切换，以及更清晰的白平衡、测光、连拍和尺寸读数。\n- 取景时切换与调节滤镜：支持滤镜切换、自定滤镜参数预览和确认写入；机身更换滤镜或调整参数后同步显示。可直接在 App 中拍摄照片和 Live。\n- 照片与 Live 编辑：滤镜、调色、裁切、旋转和边框可用于本地照片与 Live Photo，封面和动态一起保留效果；新增更多边框和自有水印编辑方式。\n- 高糊低保、诺基亚：新增两款质感滤镜，按色彩、清晰、光晕、紫边和颗粒分组调节；色彩组仅调整强度。JPEG 效果默认关闭，开启时提示仅保存后生效；诺基亚默认模糊 2.0‰、颗粒大小 1.2‰。\n- 滤镜库与编辑页：统一新建滤镜的默认图标，优化名称、图标来源和参考图的编辑布局。\n- 界面与连接体验：改善白色模式可读性；连接后先识别完整功能，再开放入口；未适配的固件功能明确显示为不可用。\n- 相册、传输与保存：改善照片浏览、Live 播放与导出、拟合和大图保存的稳定性，完善进度、取消及失败反馈；保存保留原尺寸。",
+      "downloads": [],
+      "filename": null,
+      "sha256": null,
+      "size": null
     },
     "macos-x64": {
-      "version": "1.0.9",
-      "build": 110,
+      "version": "1.0.10",
+      "build": 151,
       "installable": true,
-      "filename": "FRAME-macOS-1.0.9-110-x64.dmg",
-      "sha256": "0c22283e5e6bf12eed8dae15ddc4eb5c1fa8cbd5ad196f59620abe17d075f839",
-      "size": 252108757,
-      "notes": "同步原生滤镜隐藏、恢复和排序，以及拍立得、相机外框和三槽自定水印；兼容旧固件并按实际能力开放选项。",
+      "filename": "FRAME-macOS-1.0.10-151-x64.dmg",
+      "sha256": "4808956d5805f6b873d5c9a54800f8e3cd96a2f4072ade5e7c97bc21f54038fe",
+      "size": 242016680,
+      "notes": "- 实时预览：自定义比例按实际画幅显示遮罩；支持各拍摄比例下点击对焦与对焦框、裁切焦距切换，以及更清晰的白平衡、测光、连拍和尺寸读数。\n- 取景时切换与调节滤镜：支持滤镜切换、自定滤镜参数预览和确认写入；机身更换滤镜或调整参数后同步显示。可直接在 App 中拍摄照片和 Live。\n- 照片与 Live 编辑：滤镜、调色、裁切、旋转和边框可用于本地照片与 Live Photo，封面和动态一起保留效果；新增更多边框和自有水印编辑方式。\n- 高糊低保、诺基亚：新增两款质感滤镜，按色彩、清晰、光晕、紫边和颗粒分组调节；色彩组仅调整强度。JPEG 效果默认关闭，开启时提示仅保存后生效；诺基亚默认模糊 2.0‰、颗粒大小 1.2‰。\n- 滤镜库与编辑页：统一新建滤镜的默认图标，优化名称、图标来源和参考图的编辑布局。\n- 界面与连接体验：改善白色模式可读性；连接后先识别完整功能，再开放入口；未适配的固件功能明确显示为不可用。\n- 相册、传输与保存：改善照片浏览、Live 播放与导出、拟合和大图保存的稳定性，完善进度、取消及失败反馈；保存保留原尺寸。",
       "downloads": [
         {
           "label": "GitCode 下载",
-          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-x64.dmg"
+          "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-x64.dmg"
         },
         {
           "label": "GitHub 下载",
-          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-x64.dmg"
+          "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-x64.dmg"
         }
       ]
     }
   },
   "firmware": {
-    "id": "WNX-L3",
-    "name": "WNX-L3",
+    "id": "WNX-L5",
+    "name": "WNX-L5",
     "models": [
       "RICOH GR II",
       "GR II",
@@ -113,20 +116,22 @@
       "WN3-MAIN-M8-RC",
       "WNX",
       "WNX-L1",
-      "WNX-L2"
+      "WNX-L2",
+      "WNX-L3",
+      "WNX-L4"
     ],
     "filename": "rg2_v003.frm",
-    "sha256": "e287708788892d17f230292f4d1fe87c50d93b7d09d6a8900f74af3f4b2d3ae0",
-    "size": 14935468,
-    "notes": "这是稳定版。新增滤镜管理、拍立得与相机外框水印，优化 RAW 编辑和高光溢出处理。",
+    "sha256": "0c9c1173f9b7acd7c30057eca26e530c47a2cd3b65289ac9c220ee81fb37fc24",
+    "size": 14976428,
+    "notes": "- Live Photo 拍摄与回放：支持机身按键短按或长按拍摄照片与配套短片，回放中显示 Live 标记；新版 App 可独立发起拍摄，无需重新绑定按键。\n- 电子管日期水印：新增电子管风格的拍摄日期／时间，并优化样式选择和确认。\n- 水印左右位置：原有三槽自定水印增加各槽独立的左右位置调节。\n- GR II 相机外框：更新相机背部外框素材及屏幕区域布局。\n- 自定滤镜读回与调参：新版 App 可读取当前自定滤镜的实际基础颜色及菜单参数，按 IMAGE 分组保存、读回参数，并确认机身滤镜切换结果。\n- 实时取景状态：向新版 App 提供画幅、自定义比例、裁切及 Shift 左右区域等读数，兼容原有状态读取方式。",
     "downloads": [
       {
         "label": "GitCode 下载",
-        "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.6/rg2_v003-WNX-L3-20261031.frm"
+        "url": "https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/download/v1.0.10/rg2_v003.frm"
       },
       {
         "label": "GitHub 下载",
-        "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm"
+        "url": "https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/rg2_v003.frm"
       }
     ]
   }
