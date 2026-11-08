@@ -63,6 +63,5 @@ GR II固件包内文件名为 `rg2_v003.frm`；首次安装FRAME前请确认相�
 
 - [WNX-L3与配套110](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md)
 - [WN3历史版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)
-- [WN9历史测试版](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md)
 
 FRAME为独立扩展项目，不代表理光官方发布。胶片与相机商标归各自权利人所有。

@@ -1,87 +1,46 @@
-<h1 align="center">FRAME · WNX-L3</h1>
-<p align="center">把喜欢的色彩、构图和声音，带进 GR II。</p>
-<p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx.svg?v=WNX-L3-20261031" alt="WNX-L3 · 当前版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg?v=WNX-L2-20261025" alt="WN3 · 历史版本" height="32"></a>
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN9.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn9.svg?v=WNX-L2-20261025" alt="WN9 · 历史测试版" height="32"></a>
-</p>
+![FRAME WNX-L5 与软件 1.0.10 更新总览](https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/frame-wnx-l5-hero.png)
 
-<p align="center"><b>WNX-L3 固件 · App 1.0.9</b></p>
+# FRAME · WNX-L5
 
-## 下载与开始
+**WNX-L5 固件 · FRAME 1.0.10（151）。** iOS 151已提交外部TestFlight审核，通过后将在原公测链接提供。
 
-**当前配套：WNX-L3 固件 · FRAME App 1.0.9（110）。** Android、Mac 和 Windows 已更新；iOS 1.0.9（110）先进行内部测试，公开入口继续提供 1.0.7（108）。
+## 下载
 
-| 平台 | 下载与版本 | 要求 |
+| 平台 | 下载 | 要求 |
 | :-- | :-- | :-- |
-| GR II 固件 | [WNX-L3 固件包](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-GR2-WNX-L3-Firmware.zip) · [原始固件](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/rg2_v003.frm) | RICOH GR II |
-| Android | [FRAME 1.0.9（110）APK](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Android-1.0.9-110.apk) | Android 8.0 及以上 |
-| Mac · Apple Silicon | [FRAME 1.0.9（110）arm64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-arm64.dmg) | macOS 13 及以上 |
-| Mac · Intel | [FRAME 1.0.9（110）x64 DMG](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-macOS-1.0.9-110-x64.dmg) | macOS 13 及以上 |
-| Windows | [FRAME 1.0.9（110）安装版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-1.0.9-110-Setup.exe) · [便携版](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/FRAME-Windows-x64-1.0.9-110.zip) | Windows 10/11 x64 |
-| iPhone / iPad | [1.0.7（108）· TestFlight 公测入口](https://testflight.apple.com/join/UHu8JxZn) | iOS / iPadOS 16 及以上；110 先内测；公开入口保留 108 |
+| GR II固件 | [FRAME-GR2-WNX-L5-Firmware.zip](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-GR2-WNX-L5-Firmware.zip) | RICOH GR II |
+| Android通用版 | [FRAME-Android-1.0.10-151.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-1.0.10-151.apk) | Android 8.0及以上 |
+| Android ARM64 | [FRAME-Android-arm64-1.0.10-151.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-arm64-1.0.10-151.apk) | 可选较小安装包 |
+| Mac · Apple Silicon | [FRAME-macOS-1.0.10-151-arm64.dmg](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-arm64.dmg) | macOS 13及以上 |
+| Mac · Intel | [FRAME-macOS-1.0.10-151-x64.dmg](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-x64.dmg) | macOS 13及以上 |
+| Windows安装版 | [FRAME-Windows-1.0.10-151-Setup.exe](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Windows-1.0.10-151-Setup.exe) | Windows 10/11 x64 |
+| Windows便携版 | [FRAME-Windows-x64-1.0.10-151.zip](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Windows-x64-1.0.10-151.zip) | 完整解压后运行 |
+| iPhone / iPad | [TestFlight公测](https://testflight.apple.com/join/UHu8JxZn) · 151已提交Apple审核 | iOS / iPadOS 16及以上 |
 
-[全部发布附件](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.6) · [SHA-256 校验清单](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.6/SHA256SUMS.txt) · [软件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/software.md) · [固件介绍](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/firmware/WNX.md)
+[GitHub发行版](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.10) · [GitCode国内下载](https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/v1.0.10) · [SHA-256校验](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/SHA256SUMS.txt)
 
----
+## WNX-L5：相对 WNX-L3 新增功能
 
-## WNX-L3 新增功能与修复
+- **Live Photo 拍摄与回放**：支持机身按键短按或长按拍摄照片与配套短片，回放中显示 Live 标记；新版 App 可独立发起拍摄，无需重新绑定按键。
+- **电子管日期水印**：新增电子管风格的拍摄日期／时间，并优化样式选择和确认。
+- **水印左右位置**：原有三槽自定水印增加各槽独立的左右位置调节。
+- **GR II 相机外框**：更新相机背部外框素材及屏幕区域布局。
+- **自定滤镜读回与调参**：新版 App 可读取当前自定滤镜的实际基础颜色及菜单参数，按 IMAGE 分组保存、读回参数，并确认机身滤镜切换结果。
+- **实时取景状态**：向新版 App 提供画幅、自定义比例、裁切及 Shift 左右区域等读数，兼容原有状态读取方式。
 
-这是稳定版。
+## FRAME 1.0.10（151）：软件功能更新
 
-- **机内滤镜管理**：通过 App 隐藏、恢复和排序原生滤镜；保留“自定”子菜单，主列表与自定列表分别排序。排序使用固定滤镜编号，参数、保存记录和导入槽位保持原有归属。
-- **更多机内水印**：新增拍立得；相机外框采用上方外框、下方原图的拼接方式，适配自定比例。照片完整保留，外框屏幕按比例填充；极端比例补白，改善颜色边缘错位。
-- **RAW 编辑与确认**：修复负片／自定滤镜预览和保存有时不生效、RAW 编辑后回放名称错误，以及内置水印按 OK 有时无响应。
-- **处理速度**：合并 H1 高光溢出处理优化，复用水印缩放与编码缓冲；启动流程和预读量保持当前验证布局。
-- **各端软件同步**：Android、Apple Silicon Mac、Intel Mac、Windows 更新至 FRAME 1.0.9（110），同步滤镜排序、隐藏／恢复及完整机内水印选项。iOS 1.0.9（110）先进行 TestFlight 内部测试；公开测试入口继续提供现有公测版本。
+- **实时预览**：自定义比例按实际画幅显示遮罩；支持各拍摄比例下点击对焦与对焦框、裁切焦距切换，以及更清晰的白平衡、测光、连拍和尺寸读数。
+- **取景时切换与调节滤镜**：支持滤镜切换、自定滤镜参数预览和确认写入；机身更换滤镜或调整参数后同步显示。可直接在 App 中拍摄照片和 Live。
+- **照片与 Live 编辑**：滤镜、调色、裁切、旋转和边框可用于本地照片与 Live Photo，封面和动态一起保留效果；新增更多边框和自有水印编辑方式。
+- **高糊低保、诺基亚**：新增两款质感滤镜，按色彩、清晰、光晕、紫边和颗粒分组调节；色彩组仅调整强度。JPEG 效果默认关闭，开启时提示仅保存后生效；诺基亚默认模糊 2.0‰、颗粒大小 1.2‰。
+- **滤镜库与编辑页**：统一新建滤镜的默认图标，优化名称、图标来源和参考图的编辑布局。
+- **界面与连接体验**：改善白色模式可读性；连接后先识别完整功能，再开放入口；未适配的固件功能明确显示为不可用。
+- **相册、传输与保存**：改善照片浏览、Live 播放与导出、拟合和大图保存的稳定性，完善进度、取消及失败反馈；保存保留原尺寸。
 
-## WNX 相对 WN3 的新增功能
+## 安装与更新
 
-### 🎞️ 色彩与参数
-
-- **高光溢出与横向拉丝**：配合原生、负片和自定滤镜，在颜色处理后叠加；HDF 与颗粒可分别调整。
-- **原生拟合 / LUT17**：自定滤镜按 DISP 切换，底栏显示当前方式，OK 确认选用。
-- **V5 联合拟合**：导入 CUBE / XMP 时可选择 WN3 原拟合或 V5，支持暂停、继续与恢复。
-- **更多参数入口**：「无」、负片与自定滤镜有独立参数页；原生滤镜保留原生数值刻度与调整习惯。
-- **预设与参考图**：内置 CINESTILL 800T，多场景参考图支持左右切换，也可使用自己的照片。
-
-### 🖼️ 构图与照片信息
-
-- **更多画幅**：XPan、自定义比例及独立 RAW 比例设置。
-- **三槽自定水印**：App 可导入、预览与调整，并可选择 GR 标识和照片装饰。
-- **原生 DISP 面板**：回放时查看拍摄当时的滤镜名称、图标与参数。
-- **RAW 编辑扩展**：支持负片、自定滤镜及 HDF、颗粒与两项光效参数。
-
-### 🔊 音效与关机素材
-
-- **音效编辑**：导入、试听和裁剪关机音效、快门提示音与对焦确认音。
-- **关机图片与动画**：预览、缩放、旋转、调整构图，并分别管理画面和声音。
-
-### 📲 App 与传输
-
-- **旧固件兼容**：基础连接和原图导出不依赖新扩展接口；各功能按实际固件能力开放。
-- **原始 JPEG / DNG**：按日期浏览并导出原文件，保留原始字节。
-- **SD 文件与固件上传**：支持中文等 Unicode 文件名、连续分片、取消和保存结果核对。
-- **多平台**：Android、Apple Silicon Mac、Intel Mac、Windows、iPhone / iPad 使用一致的功能分组。
-- **统一反馈**：浮层进度与结果提示，减少旧连接和后台任务对新操作的干扰。
-
-## App 1.0.6 修复与优化
-
-- 修复更换参考图后长期停在“正在保存滤镜”：保存只写入参考图选择和原图，色彩预览在独立队列中按需生成。
-- 保存期间仍可滚动页面；预览显示进度，支持取消和重新生成，忽略取消后的旧结果。
-- 待生成预览时先显示并标注参考原图；复用已有内置预览。缓存淘汰只清理派生图，不删除保存的原图。
-- 支持最多 12 张参考图、逐张删除、全部删除后保存，以及失败回滚。
-- 保留 Android 打包脚本路径修复，以及 iOS 文件系统对象生命周期、照片最终保存、关机图片／动画／视频导入、内置音效读取和功能页闪烁修复。
-
-## 安装与使用
-
-首次安装 FRAME 前，先按理光官方说明确认 GR II 已更新至官方 3.00；升级文件保持 `rg2_v003.frm` 文件名。具体步骤可查看 [WN3 历史页面中的正常更新教程](docs/versions/WN3.md#正常更新教程)，其中“FRAME 固件”请使用本页 WNX 文件。
-
-Mac 两种架构的安装包均已签名、公证并包含运行库。Windows 便携版须完整解压后运行。iOS 1.0.9（110）先进行 TestFlight 内部测试；公开测试入口继续提供 1.0.7（108）。[加入 TestFlight 公测](https://testflight.apple.com/join/UHu8JxZn)。
-
-## WNX-L2
-
-这是稳定版
+GR II固件包内文件名为 `rg2_v003.frm`；首次安装FRAME前请确认相机已更新至理光官方3.00，并按包内使用说明操作。Mac按设备架构选择安装包；Windows可使用安装版或完整解压便携版。iOS通过TestFlight分发。
 
 ## 支持开发
 
@@ -99,11 +58,10 @@ Mac 两种架构的安装包均已签名、公证并包含运行库。Windows �
 </p>
 <p align="center"><sub>使用对应 App 扫码；也可点击图片保存后识别。感谢每一份支持。</sub></p>
 
+
 ## 历史版本
 
-- [WN3 历史版本](docs/versions/WN3.md)：保留 Android / macOS 0.65.3、Windows 0.66.1（78）配套下载与原使用说明。
-- [WN9 历史测试版](docs/versions/WN9.md)：保留 App 1.0.3（103）资料。
+- [WNX-L3与配套110](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md)
+- [WN3历史版本](https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md)
 
----
-
-FRAME 为独立扩展项目，不代表理光官方发布。胶片与相机商标归各自权利人所有。
+FRAME为独立扩展项目，不代表理光官方发布。胶片与相机商标归各自权利人所有。
