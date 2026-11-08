@@ -1,31 +1,31 @@
-![FRAME WNX-L5.1 与软件 1.0.10 更新总览](https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/frame-wnx-l5.1-hero.png)
+![FRAME WNX-L5.2 与软件 1.0.10 更新总览](https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/frame-wnx-l5.2-hero.png)
 
-# FRAME · WNX-L5.1
+# FRAME · WNX-L5.2
 
 <p align="center">
-  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX-L5.1.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx-l5.1.svg" alt="WNX-L5.1 · 当前版本" height="32"></a>
+  <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX-L5.2.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx-l5.2.svg" alt="WNX-L5.2 · 当前版本" height="32"></a>
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WNX.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wnx-l3.svg" alt="WNX-L3 · 历史版本" height="32"></a>
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg" alt="WN3 · 历史版本" height="32"></a>
 </p>
 
-**WNX-L5.1 固件 · FRAME 1.0.10（151）。** iOS 151已提交外部TestFlight审核，通过后将在原公测链接提供。
+**WNX-L5.2 固件 · Android FRAME 1.0.10（152）；其他平台151。** iOS继续通过原TestFlight公测链接查看可用版本。
 
 ## 下载
 
 | 平台 | 下载 | 要求 |
 | :-- | :-- | :-- |
-| GR II固件 | [FRAME-GR2-WNX-L5.1-Firmware.zip](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-GR2-WNX-L5.1-Firmware.zip) | RICOH GR II |
-| Android通用版 | [FRAME-Android-1.0.10-151.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-1.0.10-151.apk) | Android 8.0及以上 |
-| Android ARM64 | [FRAME-Android-arm64-1.0.10-151.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-arm64-1.0.10-151.apk) | 可选较小安装包 |
+| GR II固件 | [FRAME-GR2-WNX-L5.2-Firmware.zip](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-GR2-WNX-L5.2-Firmware.zip) | RICOH GR II |
+| Android通用版 | [FRAME-Android-1.0.10-152.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-1.0.10-152.apk) | Android 8.0及以上 |
+| Android ARM64 | [FRAME-Android-arm64-1.0.10-152.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-arm64-1.0.10-152.apk) | 可选较小安装包 |
 | Mac · Apple Silicon | [FRAME-macOS-1.0.10-151-arm64.dmg](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-arm64.dmg) | macOS 13及以上 |
 | Mac · Intel | [FRAME-macOS-1.0.10-151-x64.dmg](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-x64.dmg) | macOS 13及以上 |
 | Windows安装版 | [FRAME-Windows-1.0.10-151-Setup.exe](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Windows-1.0.10-151-Setup.exe) | Windows 10/11 x64 |
 | Windows便携版 | [FRAME-Windows-x64-1.0.10-151.zip](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Windows-x64-1.0.10-151.zip) | 完整解压后运行 |
-| iPhone / iPad | [TestFlight公测](https://testflight.apple.com/join/UHu8JxZn) · 151已提交Apple审核 | iOS / iPadOS 16及以上 |
+| iPhone / iPad | [TestFlight公测](https://testflight.apple.com/join/UHu8JxZn) · 查看可用公测版本 | iOS / iPadOS 16及以上 |
 
 [GitHub发行版](https://github.com/Lyle-xub/FRAME-GR2/releases/tag/v1.0.10) · [GitCode国内下载](https://gitcode.com/gcw_5N7kwGjx/FRAME-GR2/releases/v1.0.10) · [SHA-256校验](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/SHA256SUMS.txt)
 
-## WNX-L5.1：相对 WNX-L3 新增功能
+## WNX-L5.2：相对 WNX-L3 新增功能
 
 - **Live Photo 拍摄与回放**：支持机身按键短按或长按拍摄照片与配套短片，回放中显示 Live 标记；新版 App 可独立发起拍摄，无需重新绑定按键。
 - **电子管日期水印**：新增电子管风格的拍摄日期／时间，并优化样式选择和确认。
@@ -35,8 +35,12 @@
 - **实时取景状态**：向新版 App 提供画幅、自定义比例、裁切及 Shift 左右区域等读数，兼容原有状态读取方式。
 
 - **Live 回放与 MY 拍摄改进**：左右键直接切换前后文件并减少切图等待；修复删除前方照片后切到 Live 的黑屏、MENU 退出及方向键锁住、多图视图误自动播放问题；MY1/MY2/MY3 可使用各自独立绑定的 Live 按键，并保留拍摄前的当前参数。
+- **全照片格式 Live 拍摄**：RAW、RAW+JPEG 与 L/M/S/XS JPEG 均可用机身已绑定按键或 App 拍摄 Live；拍摄后恢复原格式及当前参数，支持各 MY 档位独立绑定。
+- **原生日期／时间水印修复**：修复裁切画面中的数字和冒号字模错位，覆盖常用及自定义比例。
 
-## FRAME 1.0.10（151）：软件功能更新
+## FRAME 1.0.10：软件功能更新
+
+- **Android 152 边框保存修复**：修复调整边框后保存照片误报“边框照片文件不属于应用临时目录”；正确接收应用私有临时文件，保留保存尺寸与清理机制。
 
 - **实时预览**：自定义比例按实际画幅显示遮罩；支持各拍摄比例下点击对焦与对焦框、裁切焦距切换，以及更清晰的白平衡、测光、连拍和尺寸读数。
 - **取景时切换与调节滤镜**：支持滤镜切换、自定滤镜参数预览和确认写入；机身更换滤镜或调整参数后同步显示。可直接在 App 中拍摄照片和 Live。
