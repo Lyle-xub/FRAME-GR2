@@ -8,15 +8,15 @@
   <a href="https://github.com/Lyle-xub/FRAME-GR2/blob/main/docs/versions/WN3.md"><img src="https://raw.githubusercontent.com/Lyle-xub/FRAME-GR2/main/docs/assets/version-wn3.svg" alt="WN3 · 历史版本" height="32"></a>
 </p>
 
-**WNX-L5.2 固件 · Android FRAME 1.0.10（152）；其他平台151。** iOS继续通过原TestFlight公测链接查看可用版本。
+**WNX-L5.2 固件 · Android FRAME 1.0.10（153）；其他平台151。** iOS继续通过原TestFlight公测链接查看可用版本。
 
 ## 下载
 
 | 平台 | 下载 | 要求 |
 | :-- | :-- | :-- |
 | GR II固件 | [FRAME-GR2-WNX-L5.2-Firmware.zip](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-GR2-WNX-L5.2-Firmware.zip) | RICOH GR II |
-| Android通用版 | [FRAME-Android-1.0.10-152.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-1.0.10-152.apk) | Android 8.0及以上 |
-| Android ARM64 | [FRAME-Android-arm64-1.0.10-152.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-arm64-1.0.10-152.apk) | 可选较小安装包 |
+| Android通用版 | [FRAME-Android-1.0.10-153.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-1.0.10-153.apk) | Android 8.0及以上 |
+| Android ARM64 | [FRAME-Android-arm64-1.0.10-153.apk](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Android-arm64-1.0.10-153.apk) | 可选较小安装包 |
 | Mac · Apple Silicon | [FRAME-macOS-1.0.10-151-arm64.dmg](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-arm64.dmg) | macOS 13及以上 |
 | Mac · Intel | [FRAME-macOS-1.0.10-151-x64.dmg](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-macOS-1.0.10-151-x64.dmg) | macOS 13及以上 |
 | Windows安装版 | [FRAME-Windows-1.0.10-151-Setup.exe](https://github.com/Lyle-xub/FRAME-GR2/releases/download/v1.0.10/FRAME-Windows-1.0.10-151-Setup.exe) | Windows 10/11 x64 |
@@ -41,6 +41,7 @@
 ## FRAME 1.0.10：软件功能更新
 
 - **Android 152 边框保存修复**：修复调整边框后保存照片误报“边框照片文件不属于应用临时目录”；正确接收应用私有临时文件，保留保存尺寸与清理机制。
+- **Android 153 稳定性更新**。修复部分机型打开「边框与水印」时的闪退，改善连接相机 Wi-Fi 后的握手重试。连接失败时显示失败阶段和诊断编号，应用启动后自动检查软件更新。
 
 - **实时预览**：自定义比例按实际画幅显示遮罩；支持各拍摄比例下点击对焦与对焦框、裁切焦距切换，以及更清晰的白平衡、测光、连拍和尺寸读数。
 - **取景时切换与调节滤镜**：支持滤镜切换、自定滤镜参数预览和确认写入；机身更换滤镜或调整参数后同步显示。可直接在 App 中拍摄照片和 Live。
